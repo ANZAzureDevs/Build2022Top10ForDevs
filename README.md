@@ -1,4 +1,4 @@
-# Microsoft Build 2022 Top Things 10 For ANZ Developers
+# Microsoft Build 2022 Top 10 Things For ANZ Developers
 
 Content for the "Top 10 Things for ANZ Developers" event covering Microsoft Build 2022. Check back later for videos and presentations related to these topics.
 
