@@ -1,6 +1,8 @@
 # Microsoft Build 2022 Top 10 Things For ANZ Developers
 
-Content for the "Top 10 Things for ANZ Developers" event covering Microsoft Build 2022. Check back later for videos and presentations related to these topics.
+Content for the "Top 10 Things for ANZ Developers" event covering Microsoft Build 2022. 
+
+The links for the [demo videos](./DemosVideos/readme.md) and the [presentations](./Presentations/readme.md) are now available. We'll add the recordings of the sessions being delivered once they are available.
 
 ## Scale cloud-native apps and accelerate app modernisation
 
