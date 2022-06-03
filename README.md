@@ -2,9 +2,23 @@
 
 Content for the "Top 10 Things for ANZ Developers" event covering Microsoft Build 2022. 
 
-The links for the [demo videos](./DemosVideos/readme.md) and the [presentations](./Presentations/readme.md) are now available. We'll add the recordings of the sessions being delivered once they are available.
+The links for the [demo videos](./DemosVideos/readme.md) and the [presentations](./Presentations/readme.md) are now available. We'll add the recordings of the sessions delivered by ANZ speakers on 2nd June once they are available.
 
-## Scale cloud-native apps and accelerate app modernisation
+## Runsheet
+
+We recommend having more than one presenter deliver the content, especially if you are delivering all segments.
+
+| Segment | Duration (minutes) | Content |
+|---------|:----------:|---------|
+| Opening | 8          | 01 - MS Build 2022 - Overview and Introduction ([pptx](./Presentations/01%20-%20MS%20Build%202022%20-%20Overview%20and%20Introduction.pptx)) |
+| Cloud-native | 20    | 02 - MS Build 2022 - Cloud Native ([pptx](./Presentations/02%20-%20MS%20Build%202022%20-%20Cloud%20Native.pptx)) |
+| Cloud Dev environments | 20 | 03 - MS Build 2022 - Cloud Dev Environments ([pptx](./Presentations/03%20-%20MS%20Build%202022%20-%20Cloud%20Dev%20Environments.pptx)) |
+| Low code | 15 | 04 - MS Build 2022 - Low Code ([pptx](./Presentations/04%20-%20MS%20Build%202022%20-%20Low%20Code.pptx))
+| Wrap-up | 5 | 05 - MS Build 2022 - Wrap Up ([pptx](./Presentations/05%20-%20MS%20Build%202022%20-%20Wrap%20Up.pptx))
+
+## Shortlinks for the show
+
+### Scale cloud-native apps and accelerate app modernisation
 
 Get started with Azure Container Apps
 https://aka.ms/containerapps/quickstarts
@@ -21,7 +35,7 @@ https://aka.ms/aks/release-tracker
 Managed Grafana documentation
 https://aka.ms/grafana
 
-## Rapidly code, test, and ship from secure cloud developer environments
+### Rapidly code, test, and ship from secure cloud developer environments
 
 Microsoft Dev Box (Private Preview)
 https://aka.ms/devbox-signup
@@ -35,7 +49,7 @@ https://aka.ms/github-advancedsecruity
 GitHub Advanced Security Push Protection 
 https://aka.ms/github-pushprotection
 
-## Innovate with collaborative apps and low code
+### Innovate with collaborative apps and low code
 
 Power Pages 
 https://docs.microsoft.com/power-pages/
@@ -48,7 +62,7 @@ https://aka.ms/hostedrpabotsdocs
 
 Hearing Australia collaborates on Power Apps https://youtu.be/iZC1itZQ7L4
 
-## Overall event links
+### Overall event links
 
 Azure OpenAI Service Private preview application
 https://aka.ms/oaiapply
