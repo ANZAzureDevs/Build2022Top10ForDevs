@@ -2,7 +2,9 @@
 
 ## Demonstration Videos
 
-The video files contained in this folder fit into specific locations with the presentations. We've split them out to keep the PowerPoint file sizes down.
+The video files linked from this readme fit into specific locations with the presentations. We've split them out to keep the PowerPoint file sizes down.
+
+Due to GitHub's 100MB file limit we've pushed the videos to [OneDrive](https://1drv.ms/u/s!Ajh6aqc-UljkeuWRPMqNmeR-Fxk?e=cn1ZNx) so you can download them from there.
 
 The files are numbered according to their location within the overall run of the show. If you don't present all content, check the speaker notes in the slides you are using to make sure you use the right video.
 
