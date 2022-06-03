@@ -2,6 +2,12 @@
 
 Content for the "Top 10 Things for ANZ Developers" event covering Microsoft Build 2022. 
 
+If you would like to run your own event you can find the content below.
+
+We loved the infographic below which summarises what the event covers. There is a [high-resolution version](infographic-blackboard.jpg) in this repo that you can use for your event. We would ask you not to reproduce outside of running your event.
+
+![Infographic on a blackboard - low-res](/small-infographic-blackboard.jpg)
+
 The links for the [demo videos](./DemosVideos/readme.md) and the [presentations](./Presentations/readme.md) are now available. We'll add the recordings of the sessions delivered by ANZ speakers on 2nd June once they are available.
 
 ## Runsheet
