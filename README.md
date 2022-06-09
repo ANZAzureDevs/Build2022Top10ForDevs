@@ -8,7 +8,7 @@ We loved the infographic below which summarises what the event covers. There is 
 
 ![Infographic on a blackboard - low-res](/small-infographic-blackboard.jpg)
 
-The links for the [demo videos](./DemosVideos/readme.md) and the [presentations](./Presentations/readme.md) are now available. We'll add the recordings of the sessions delivered by ANZ speakers on 2nd June once they are available.
+The links for the [demo videos](./DemosVideos/readme.md) and the [presentations](./Presentations/readme.md) are now available. Session recordings from our live event in Sydney on June 2, 2022 are available via [OneDrive](https://1drv.ms/u/s!Ajh6aqc-UljkgQbX73VR-y5Eg-L_?e=HsIPFK).
 
 ## Runsheet
 
